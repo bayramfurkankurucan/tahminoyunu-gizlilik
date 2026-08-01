@@ -1,6 +1,6 @@
-# Tahmin Oyunu — Gizlilik Politikası
+# GuessChallenge — Gizlilik Politikası
 
-Bu depo yalnızca **Tahmin Oyunu**'nun gizlilik politikasını yayınlar.
+Bu depo yalnızca **GuessChallenge**'ın gizlilik politikasını yayınlar.
 Oyunun kaynak kodu burada değil.
 
 Yayındaki adres: <https://bayramfurkankurucan.github.io/tahminoyunu-gizlilik/>
